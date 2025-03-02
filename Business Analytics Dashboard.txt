@@ -1,0 +1,7 @@
+Business Analytics Dashboard
+
+1. MySQL Connection
+2. Graphs
+3. Sidebar Navigation
+3. Query
+4. Theme
