@@ -1,0 +1,13 @@
+business-analytics-dashboard/
+│── .gitignore
+│── LICENSE
+│── README.md
+│── main.py
+│── customers.csv
+│── style.css
+│── mysql_con.py
+│── requirements.txt
+└── images/
+    ├── dashboard_screenshot.png
+    ├── bar_chart.png
+    └── pie_chart.png
